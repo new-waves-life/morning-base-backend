@@ -1,0 +1,10 @@
+{
+  "name": "morning-base-backend",
+  "version": "1.0.0",
+  "description": "MORNING BASE — AI Tips Backend",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@supabase/supabase-js": "^2.49.4"
+  }
+}

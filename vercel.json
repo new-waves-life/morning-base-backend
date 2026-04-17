@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/tip-generate",
+      "schedule": "0 21 * * *"
+    }
+  ]
+}
